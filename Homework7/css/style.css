@@ -1,0 +1,192 @@
+@import url("_fonts.css");
+.container {
+  margin: 0 auto;
+  padding: 0 10px;
+  max-width: 1140px;
+}
+.background1 {
+  background: rgba(238, 239, 241, 1);
+}
+.pad1 {
+  padding-top: 79px;
+}
+.background3 {
+  background: #34547a;
+}
+
+.pad1 > .container > a {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #000000;
+  margin-right: 42px;
+  text-decoration: none;
+}
+
+.pad1 > .container > a:hover {
+  text-decoration: underline;
+  text-decoration-color: rgb(24, 136, 218);
+}
+.pad1 > .container > a:first-child {
+  font-weight: 500;
+  color: #34547a;
+}
+h1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 79px;
+  color: #000000;
+  margin: 0;
+}
+.pad2 {
+  padding-top: 151px;
+  padding-bottom: 141px;
+}
+.pad2 > .container > p {
+  width: 540px;
+  margin-top: 60px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #727272;
+}
+.button {
+  width: 225px;
+  height: 65px;
+  background: #34547a;
+  padding: 20px 41px;
+  margin-top: 65px;
+}
+.button > a {
+  position: absolute;
+  width: 143px;
+  height: 26px;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.button > a:hover {
+  text-decoration: underline;
+  text-decoration-color: rgb(24, 136, 218);
+}
+.pad3 {
+  padding: 112px 0 100px 0;
+}
+.pad3 > .container > h2 {
+  margin: 0 auto;
+  width: 403px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+  color: #000000;
+}
+.pad3 > .container > p {
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 540px;
+  height: 67px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #727272;
+}
+.pad4 {
+  padding: 112px 0 100px 0;
+}
+.pad4 > .container > img {
+  width: 141px;
+  height: 50px;
+  margin-right: 45px;
+}
+.pad4 > .container > img:last-child {
+  margin: 0;
+}
+.pad5 {
+  padding: 100px 0;
+}
+.pad5 > .container > h2 {
+  margin: 0 auto;
+  width: 403px;
+  height: 30px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+
+  color: #000000;
+
+  margin-bottom: 50px;
+}
+.pad5 > .container > p {
+  margin: 0 auto;
+  width: 540px;
+  height: 67px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+
+  color: #727272;
+
+  margin-bottom: 57px;
+}
+.pad5 > .container > iframe {
+  width: 1110px;
+  height: 600px;
+  border: 0;
+}
+.pad6 {
+  padding: 50px 0;
+}
+.pad6 > .container > h3 {
+  width: 130px;
+  height: 19px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 25px;
+
+  color: #ffffff;
+
+  margin-bottom: 20px;
+}
+.pad6 > .container > span {
+  width: 193px;
+  height: 12px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
+
+  color: #ffffff;
+}
